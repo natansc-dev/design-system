@@ -8,6 +8,13 @@ export default {
     src: 'https://github.com/natansc-dev.png',
     alt: 'Natan Cardoso',
   },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
