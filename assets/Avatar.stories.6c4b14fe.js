@@ -1,0 +1,2 @@
+import{A as t}from"./index.a4b2610c.js";import"./index.f7c62980.js";import"./iframe.bb101bd1.js";import"./index.56479227.js";import"./jsx-runtime.eb255155.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://github.com/natansc-dev.png",alt:"Natan Cardoso"},argTypes:{src:{control:{type:"text"}}}},p={},n={args:{src:void 0}},e=["Primary","WithFallback"];export{p as Primary,n as WithFallback,e as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.6c4b14fe.js.map
